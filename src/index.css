@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 font-walmart;
+  }
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@layer components {
+  .walmart-button {
+    @apply bg-walmart-blue text-white px-4 py-2 rounded-md hover:bg-walmart-darkblue transition-colors duration-200;
+  }
+  
+  .walmart-button-secondary {
+    @apply bg-white border border-walmart-blue text-walmart-blue px-4 py-2 rounded-md hover:bg-walmart-lightblue transition-colors duration-200;
+  }
+  
+  .walmart-input {
+    @apply border border-gray-300 rounded-md px-3 py-2 focus:ring-2 focus:ring-walmart-blue focus:border-walmart-blue outline-none;
+  }
+  
+  .walmart-card {
+    @apply bg-white rounded-lg shadow-md p-4 border border-gray-200;
+  }
 }
