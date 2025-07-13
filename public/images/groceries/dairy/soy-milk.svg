@@ -1,0 +1,53 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Carton shadow -->
+  <ellipse cx="150" cy="280" rx="60" ry="10" fill="#00000020"/>
+  
+  <!-- Soy milk carton base -->
+  <rect x="90" y="100" width="120" height="160" rx="8" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Carton top -->
+  <polygon points="90,100 150,40 210,100" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Silk brand section -->
+  <rect x="95" y="105" width="110" height="40" rx="5" fill="#2e8b57"/>
+  
+  <!-- Brand text -->
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Silk</text>
+  <text x="150" y="135" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">PLANT-BASED</text>
+  
+  <!-- Soy milk type section -->
+  <rect x="95" y="150" width="110" height="35" fill="#f0fff0"/>
+  <text x="150" y="165" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e8b57" text-anchor="middle">SOY MILK</text>
+  <text x="150" y="180" font-family="Arial, sans-serif" font-size="12" fill="#2e8b57" text-anchor="middle">Unsweetened</text>
+  
+  <!-- Soy milk splash illustration -->
+  <ellipse cx="150" cy="210" rx="30" ry="20" fill="#f5f5dc"/>
+  <ellipse cx="150" cy="205" rx="25" ry="15" fill="#f0fff0"/>
+  
+  <!-- Soybean illustration -->
+  <ellipse cx="125" cy="200" rx="3" ry="6" fill="#228b22"/>
+  <ellipse cx="135" cy="205" rx="3" ry="6" fill="#228b22"/>
+  <ellipse cx="165" cy="205" rx="3" ry="6" fill="#228b22"/>
+  <ellipse cx="175" cy="200" rx="3" ry="6" fill="#228b22"/>
+  
+  <!-- Protein badge -->
+  <circle cx="120" cy="230" r="12" fill="#2e8b57"/>
+  <text x="120" y="225" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">HIGH</text>
+  <text x="120" y="237" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">PROTEIN</text>
+  
+  <!-- Unsweetened badge -->
+  <rect x="165" y="225" width="30" height="15" rx="3" fill="#32cd32"/>
+  <text x="180" y="235" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">0g Sugar</text>
+  
+  <!-- Volume and details -->
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">64 fl oz (1.89L)</text>
+  
+  <!-- Carton seam -->
+  <line x1="150" y1="40" x2="150" y2="100" stroke="#d0d0d0" stroke-width="1"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="130" cy="170" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

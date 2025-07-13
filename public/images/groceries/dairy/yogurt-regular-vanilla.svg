@@ -1,0 +1,43 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Container shadow -->
+  <ellipse cx="150" cy="260" rx="70" ry="15" fill="#00000020"/>
+  
+  <!-- Yogurt container -->
+  <rect x="80" y="60" width="140" height="180" rx="12" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Yoplait brand area -->
+  <rect x="85" y="65" width="130" height="50" rx="8" fill="#ff6b9d"/>
+  
+  <!-- Yoplait logo -->
+  <text x="150" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Yoplait</text>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">Original</text>
+  
+  <!-- Vanilla flavor section -->
+  <rect x="85" y="120" width="130" height="40" fill="#fff8dc"/>
+  <text x="150" y="135" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#8b4513" text-anchor="middle">VANILLA</text>
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="10" fill="#8b4513" text-anchor="middle">Low Fat Yogurt</text>
+  
+  <!-- Yogurt illustration -->
+  <ellipse cx="150" cy="185" rx="35" ry="25" fill="#fffacd"/>
+  <ellipse cx="150" cy="180" rx="30" ry="20" fill="#fff8dc"/>
+  
+  <!-- Vanilla bean illustration -->
+  <rect x="145" y="175" width="2" height="10" fill="#8b4513"/>
+  <circle cx="146" cy="175" r="1" fill="#8b4513"/>
+  <circle cx="146" cy="185" r="1" fill="#8b4513"/>
+  
+  <!-- Size and details -->
+  <text x="150" y="205" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">32 oz (907g)</text>
+  <text x="150" y="220" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Gluten Free</text>
+  
+  <!-- Lid -->
+  <ellipse cx="150" cy="60" rx="70" ry="8" fill="#ff6b9d"/>
+  <ellipse cx="150" cy="58" rx="70" ry="8" fill="#ff8fb3"/>
+  <ellipse cx="150" cy="56" rx="65" ry="7" fill="#ffa8c5"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="130" cy="140" rx="15" ry="40" fill="#ffffff30"/>
+</svg> 

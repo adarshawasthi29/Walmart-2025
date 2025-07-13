@@ -1,0 +1,48 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bottleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d5016;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3309;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="oilGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9acd32;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#6b8e23;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Bottle -->
+  <rect x="120" y="80" width="60" height="140" rx="10" fill="url(#bottleGradient)" stroke="#1e3309" stroke-width="2"/>
+  
+  <!-- Bottle neck -->
+  <rect x="135" y="60" width="30" height="25" rx="5" fill="url(#bottleGradient)" stroke="#1e3309" stroke-width="1"/>
+  
+  <!-- Bottle cap -->
+  <rect x="133" y="55" width="34" height="10" rx="5" fill="#8B4513" stroke="#654321" stroke-width="1"/>
+  
+  <!-- Oil inside bottle -->
+  <rect x="125" y="85" width="50" height="130" rx="8" fill="url(#oilGradient)"/>
+  
+  <!-- Bertolli label -->
+  <rect x="125" y="100" width="50" height="40" rx="3" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <text x="150" y="115" text-anchor="middle" fill="#2d5016" font-family="Arial, sans-serif" font-size="12" font-weight="bold">BERTOLLI</text>
+  <text x="150" y="128" text-anchor="middle" fill="#2d5016" font-family="Arial, sans-serif" font-size="8">EXTRA VIRGIN</text>
+  <text x="150" y="136" text-anchor="middle" fill="#2d5016" font-family="Arial, sans-serif" font-size="8">OLIVE OIL</text>
+  
+  <!-- Italian flag colors -->
+  <rect x="125" y="150" width="16" height="15" fill="#27ae60"/>
+  <rect x="142" y="150" width="16" height="15" fill="#ffffff"/>
+  <rect x="159" y="150" width="16" height="15" fill="#e74c3c"/>
+  
+  <!-- Volume -->
+  <rect x="125" y="180" width="50" height="20" rx="2" fill="#f39c12" stroke="#d68910" stroke-width="1"/>
+  <text x="150" y="192" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">16.9 FL OZ</text>
+  
+  <!-- Bottle reflection -->
+  <rect x="128" y="85" width="8" height="130" rx="4" fill="#ffffff" opacity="0.3"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="230" rx="30" ry="6" fill="#000000" opacity="0.1"/>
+</svg> 

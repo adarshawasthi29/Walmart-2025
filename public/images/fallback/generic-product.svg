@@ -1,0 +1,38 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="productGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#ffffff"/>
+  
+  <!-- Product box -->
+  <rect x="75" y="75" width="150" height="150" rx="10" fill="url(#productGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Generic product icon -->
+  <rect x="125" y="110" width="50" height="80" rx="5" fill="#6c757d" opacity="0.3"/>
+  
+  <!-- Package lines -->
+  <path d="M95 95 L205 95" stroke="#adb5bd" stroke-width="1"/>
+  <path d="M95 105 L205 105" stroke="#adb5bd" stroke-width="1"/>
+  <path d="M95 115 L160 115" stroke="#adb5bd" stroke-width="1"/>
+  
+  <path d="M95 200 L205 200" stroke="#adb5bd" stroke-width="1"/>
+  <path d="M95 210 L205 210" stroke="#adb5bd" stroke-width="1"/>
+  <path d="M95 220 L160 220" stroke="#adb5bd" stroke-width="1"/>
+  
+  <!-- Product label area -->
+  <rect x="85" y="240" width="130" height="30" rx="5" fill="#ffffff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="150" y="255" text-anchor="middle" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">PRODUCT</text>
+  <text x="150" y="265" text-anchor="middle" fill="#adb5bd" font-family="Arial, sans-serif" font-size="8">IMAGE LOADING...</text>
+  
+  <!-- Walmart spark -->
+  <circle cx="190" cy="120" r="12" fill="#0071ce" opacity="0.8"/>
+  <path d="M190 112 L194 118 L202 118 L196 124 L198 132 L190 128 L182 132 L184 124 L178 118 L186 118 Z" fill="#ffffff"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="280" rx="60" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 

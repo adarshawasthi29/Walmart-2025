@@ -1,0 +1,52 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Bag shadow -->
+  <ellipse cx="150" cy="270" rx="80" ry="15" fill="#00000020"/>
+  
+  <!-- Bread bag -->
+  <rect x="70" y="80" width="160" height="180" rx="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Brand section -->
+  <rect x="75" y="85" width="150" height="50" rx="5" fill="#d2691e"/>
+  
+  <!-- Brand text -->
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">Nature's Own</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">100% NATURAL</text>
+  
+  <!-- Bread type section -->
+  <rect x="75" y="140" width="150" height="40" fill="#fff8dc"/>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d2691e" text-anchor="middle">HONEY WHEAT</text>
+  <text x="150" y="170" font-family="Arial, sans-serif" font-size="12" fill="#d2691e" text-anchor="middle">Whole Grain</text>
+  
+  <!-- Bread loaf illustration -->
+  <ellipse cx="150" cy="210" rx="50" ry="30" fill="#daa520"/>
+  <ellipse cx="150" cy="205" rx="45" ry="25" fill="#f4a460"/>
+  
+  <!-- Honey droplet -->
+  <circle cx="130" cy="200" r="3" fill="#ffd700"/>
+  <path d="M 130 197 Q 125 195 130 193" stroke="#ffd700" stroke-width="1" fill="none"/>
+  
+  <!-- Wheat grain illustration -->
+  <ellipse cx="170" cy="200" rx="2" ry="8" fill="#daa520"/>
+  <path d="M 168 192 L 170 200 L 172 192" stroke="#daa520" stroke-width="1" fill="none"/>
+  <path d="M 167 195 L 170 200 L 173 195" stroke="#daa520" stroke-width="1" fill="none"/>
+  <path d="M 166 198 L 170 200 L 174 198" stroke="#daa520" stroke-width="1" fill="none"/>
+  
+  <!-- Bread texture lines -->
+  <path d="M 120 195 Q 150 190 180 195" stroke="#cd853f" stroke-width="1" fill="none"/>
+  <path d="M 125 205 Q 150 200 175 205" stroke="#cd853f" stroke-width="1" fill="none"/>
+  <path d="M 130 215 Q 150 210 170 215" stroke="#cd853f" stroke-width="1" fill="none"/>
+  
+  <!-- Size and details -->
+  <text x="150" y="235" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">20 oz Loaf</text>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Sweet & Nutritious</text>
+  
+  <!-- Bag clip -->
+  <rect x="140" y="75" width="20" height="12" rx="2" fill="#ffd700"/>
+  <rect x="142" y="77" width="16" height="8" rx="1" fill="#ffed4e"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="120" cy="160" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

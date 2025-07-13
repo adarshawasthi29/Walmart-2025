@@ -1,0 +1,54 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Jar shadow -->
+  <ellipse cx="150" cy="270" rx="60" ry="15" fill="#00000020"/>
+  
+  <!-- Arborio rice jar -->
+  <rect x="90" y="80" width="120" height="170" rx="8" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- RiceSelect brand section -->
+  <rect x="95" y="85" width="110" height="45" rx="5" fill="#8b0000"/>
+  
+  <!-- Brand text -->
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">RiceSelect</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">GOURMET</text>
+  
+  <!-- Product name section -->
+  <rect x="95" y="135" width="110" height="35" fill="#fff8dc"/>
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8b0000" text-anchor="middle">ARBORIO</text>
+  <text x="150" y="165" font-family="Arial, sans-serif" font-size="12" fill="#8b0000" text-anchor="middle">RICE</text>
+  
+  <!-- Rice illustration -->
+  <ellipse cx="150" cy="195" rx="40" ry="25" fill="#f5f5dc"/>
+  <ellipse cx="150" cy="190" rx="35" ry="20" fill="#fff8dc"/>
+  
+  <!-- Individual rice grains -->
+  <ellipse cx="130" cy="185" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="140" cy="190" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="150" cy="185" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="160" cy="190" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="170" cy="185" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="135" cy="195" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="155" cy="195" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="165" cy="195" rx="2" ry="4" fill="#fffacd"/>
+  
+  <!-- Italian flag colors -->
+  <rect x="120" y="210" width="6" height="15" fill="#228b22"/>
+  <rect x="126" y="210" width="6" height="15" fill="#ffffff"/>
+  <rect x="132" y="210" width="6" height="15" fill="#dc143c"/>
+  <text x="150" y="220" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">ITALIAN</text>
+  
+  <!-- Size and details -->
+  <text x="150" y="235" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">32 oz Jar</text>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Perfect for Risotto</text>
+  
+  <!-- Jar lid -->
+  <ellipse cx="150" cy="80" rx="60" ry="8" fill="#8b0000"/>
+  <ellipse cx="150" cy="78" rx="60" ry="8" fill="#a52a2a"/>
+  <ellipse cx="150" cy="76" rx="55" ry="7" fill="#cd5c5c"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="130" cy="150" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

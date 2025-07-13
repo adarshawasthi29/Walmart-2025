@@ -1,0 +1,48 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Carton shadow -->
+  <ellipse cx="150" cy="280" rx="60" ry="10" fill="#00000020"/>
+  
+  <!-- Milk carton base -->
+  <rect x="90" y="100" width="120" height="160" rx="8" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Carton top -->
+  <polygon points="90,100 150,40 210,100" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Great Value brand section -->
+  <rect x="95" y="105" width="110" height="40" rx="5" fill="#ffa500"/>
+  
+  <!-- Brand text -->
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Great Value</text>
+  <text x="150" y="135" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">FRESH</text>
+  
+  <!-- Milk type section -->
+  <rect x="95" y="150" width="110" height="35" fill="#e6f3ff"/>
+  <text x="150" y="165" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc" text-anchor="middle">1% LOW FAT</text>
+  <text x="150" y="180" font-family="Arial, sans-serif" font-size="12" fill="#0066cc" text-anchor="middle">MILK</text>
+  
+  <!-- Milk splash illustration -->
+  <ellipse cx="150" cy="210" rx="30" ry="20" fill="#ffffff"/>
+  <ellipse cx="150" cy="205" rx="25" ry="15" fill="#f8f8ff"/>
+  
+  <!-- 1% Fat badge -->
+  <circle cx="120" cy="200" r="12" fill="#0066cc"/>
+  <text x="120" y="195" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">1%</text>
+  <text x="120" y="205" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle">MILKFAT</text>
+  
+  <!-- Protein badge -->
+  <rect x="165" y="195" width="30" height="15" rx="3" fill="#4a90e2"/>
+  <text x="180" y="205" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">Protein</text>
+  
+  <!-- Volume and details -->
+  <text x="150" y="235" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">64 fl oz (1.89L)</text>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Vitamin A & D Added</text>
+  
+  <!-- Carton seam -->
+  <line x1="150" y1="40" x2="150" y2="100" stroke="#d0d0d0" stroke-width="1"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="130" cy="170" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

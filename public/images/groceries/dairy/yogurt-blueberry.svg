@@ -1,0 +1,52 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Container shadow -->
+  <ellipse cx="150" cy="260" rx="70" ry="15" fill="#00000020"/>
+  
+  <!-- Yogurt container -->
+  <rect x="80" y="60" width="140" height="180" rx="12" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Dannon brand area -->
+  <rect x="85" y="65" width="130" height="50" rx="8" fill="#2e5cb8"/>
+  
+  <!-- Dannon logo -->
+  <text x="150" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Dannon</text>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">Light &amp; Fit</text>
+  
+  <!-- Blueberry flavor section -->
+  <rect x="85" y="120" width="130" height="40" fill="#e6f3ff"/>
+  <text x="150" y="135" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e5cb8" text-anchor="middle">BLUEBERRY</text>
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="10" fill="#2e5cb8" text-anchor="middle">Low Fat Yogurt</text>
+  
+  <!-- Yogurt illustration -->
+  <ellipse cx="150" cy="185" rx="35" ry="25" fill="#f0f8ff"/>
+  <ellipse cx="150" cy="180" rx="30" ry="20" fill="#e6f3ff"/>
+  
+  <!-- Blueberry illustrations -->
+  <circle cx="140" cy="178" r="3" fill="#4169e1"/>
+  <circle cx="148" cy="185" r="3" fill="#4169e1"/>
+  <circle cx="160" cy="180" r="3" fill="#4169e1"/>
+  <circle cx="155" cy="175" r="2" fill="#4169e1"/>
+  
+  <!-- Blueberry tops -->
+  <circle cx="140" cy="176" r="1" fill="#228b22"/>
+  <circle cx="148" cy="183" r="1" fill="#228b22"/>
+  <circle cx="160" cy="178" r="1" fill="#228b22"/>
+  <circle cx="155" cy="173" r="0.5" fill="#228b22"/>
+  
+  <!-- Size and details -->
+  <text x="150" y="205" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">32 oz (907g)</text>
+  <text x="150" y="220" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">80 Calories</text>
+  
+  <!-- Lid -->
+  <ellipse cx="150" cy="60" rx="70" ry="8" fill="#2e5cb8"/>
+  <ellipse cx="150" cy="58" rx="70" ry="8" fill="#4169e1"/>
+  <ellipse cx="150" cy="56" rx="65" ry="7" fill="#6495ed"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="130" cy="140" rx="15" ry="40" fill="#ffffff30"/>
+  
+  <!-- Force refresh -->
+</svg> 

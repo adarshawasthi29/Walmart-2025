@@ -1,0 +1,44 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bananaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffed4e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffc000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Banana bunch background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f9f9f9"/>
+  
+  <!-- Banana 1 -->
+  <path d="M60 80 Q80 90 100 120 Q110 140 120 160 Q125 180 130 200 Q135 220 140 240" 
+        fill="none" stroke="url(#bananaGradient)" stroke-width="25" stroke-linecap="round"/>
+  
+  <!-- Banana 2 -->
+  <path d="M85 85 Q105 95 125 125 Q135 145 145 165 Q150 185 155 205 Q160 225 165 245" 
+        fill="none" stroke="url(#bananaGradient)" stroke-width="25" stroke-linecap="round"/>
+  
+  <!-- Banana 3 -->
+  <path d="M110 88 Q130 98 150 128 Q160 148 170 168 Q175 188 180 208 Q185 228 190 248" 
+        fill="none" stroke="url(#bananaGradient)" stroke-width="25" stroke-linecap="round"/>
+  
+  <!-- Banana 4 -->
+  <path d="M135 90 Q155 100 175 130 Q185 150 195 170 Q200 190 205 210 Q210 230 215 250" 
+        fill="none" stroke="url(#bananaGradient)" stroke-width="25" stroke-linecap="round"/>
+  
+  <!-- Banana stem -->
+  <ellipse cx="125" cy="70" rx="40" ry="15" fill="#8B4513" stroke="#654321" stroke-width="2"/>
+  
+  <!-- Banana ridges/lines -->
+  <path d="M65 85 Q85 95 105 125 Q115 145 125 165 Q130 185 135 205 Q140 225 145 245" 
+        fill="none" stroke="#e6c200" stroke-width="2" opacity="0.7"/>
+  <path d="M90 90 Q110 100 130 130 Q140 150 150 170 Q155 190 160 210 Q165 230 170 250" 
+        fill="none" stroke="#e6c200" stroke-width="2" opacity="0.7"/>
+  <path d="M115 93 Q135 103 155 133 Q165 153 175 173 Q180 193 185 213 Q190 233 195 253" 
+        fill="none" stroke="#e6c200" stroke-width="2" opacity="0.7"/>
+  <path d="M140 95 Q160 105 180 135 Q190 155 200 175 Q205 195 210 215 Q215 235 220 255" 
+        fill="none" stroke="#e6c200" stroke-width="2" opacity="0.7"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="270" rx="80" ry="15" fill="#000000" opacity="0.1"/>
+</svg> 

@@ -1,0 +1,53 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="potatoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#DEB887;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A0522D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Potato 1 -->
+  <ellipse cx="120" cy="120" rx="35" ry="25" fill="url(#potatoGradient)" stroke="#8B4513" stroke-width="1"/>
+  
+  <!-- Potato 2 -->
+  <ellipse cx="180" cy="110" rx="30" ry="20" fill="url(#potatoGradient)" stroke="#8B4513" stroke-width="1"/>
+  
+  <!-- Potato 3 -->
+  <ellipse cx="100" cy="170" rx="28" ry="18" fill="url(#potatoGradient)" stroke="#8B4513" stroke-width="1"/>
+  
+  <!-- Potato 4 -->
+  <ellipse cx="170" cy="160" rx="32" ry="22" fill="url(#potatoGradient)" stroke="#8B4513" stroke-width="1"/>
+  
+  <!-- Potato 5 -->
+  <ellipse cx="150" cy="200" rx="25" ry="15" fill="url(#potatoGradient)" stroke="#8B4513" stroke-width="1"/>
+  
+  <!-- Potato eyes/spots -->
+  <circle cx="110" cy="115" r="2" fill="#654321"/>
+  <circle cx="125" cy="125" r="1.5" fill="#654321"/>
+  <circle cx="175" cy="105" r="1.5" fill="#654321"/>
+  <circle cx="185" cy="115" r="2" fill="#654321"/>
+  <circle cx="95" cy="165" r="1.5" fill="#654321"/>
+  <circle cx="105" cy="175" r="1.5" fill="#654321"/>
+  <circle cx="165" cy="155" r="2" fill="#654321"/>
+  <circle cx="175" cy="165" r="1.5" fill="#654321"/>
+  
+  <!-- Mesh bag -->
+  <rect x="70" y="230" width="160" height="50" rx="10" fill="#ff6b6b" stroke="#e55656" stroke-width="2"/>
+  <text x="150" y="250" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">RUSSET POTATOES</text>
+  <text x="150" y="265" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">5 LB BAG</text>
+  
+  <!-- Mesh pattern -->
+  <path d="M80 235 L220 235" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M80 240 L220 240" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M80 245 L220 245" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M80 255 L220 255" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M80 260 L220 260" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M80 270 L220 270" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M80 275 L220 275" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="290" rx="70" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 

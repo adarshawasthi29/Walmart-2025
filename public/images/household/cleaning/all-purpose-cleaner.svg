@@ -1,0 +1,50 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bottleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Cleaner bottle -->
+  <rect x="110" y="70" width="80" height="150" rx="8" fill="url(#bottleGradient)" stroke="#1976d2" stroke-width="2"/>
+  
+  <!-- Bottle neck -->
+  <rect x="125" y="55" width="50" height="20" rx="5" fill="url(#bottleGradient)" stroke="#1976d2" stroke-width="1"/>
+  
+  <!-- Spray trigger -->
+  <path d="M95 90 Q85 95 85 105 Q85 115 95 120 L110 115 L110 95 Z" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="2"/>
+  
+  <!-- Mr. Clean branding -->
+  <rect x="120" y="90" width="60" height="30" rx="3" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <text x="150" y="105" text-anchor="middle" fill="#3498db" font-family="Arial, sans-serif" font-size="12" font-weight="bold">MR. CLEAN</text>
+  
+  <!-- Product type -->
+  <rect x="120" y="130" width="60" height="40" rx="3" fill="#f1c40f" stroke="#d68910" stroke-width="1"/>
+  <text x="150" y="145" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">ALL-PURPOSE</text>
+  <text x="150" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">CLEANER</text>
+  <text x="150" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="6">MULTI-SURFACE</text>
+  
+  <!-- Size -->
+  <rect x="120" y="180" width="60" height="20" rx="3" fill="#27ae60" stroke="#1e8449" stroke-width="1"/>
+  <text x="150" y="192" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">28 FL OZ</text>
+  
+  <!-- Features -->
+  <rect x="120" y="205" width="60" height="10" rx="2" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
+  <text x="150" y="212" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="6" font-weight="bold">FRESH SCENT</text>
+  
+  <!-- Bottle cap -->
+  <rect x="128" y="50" width="44" height="8" rx="4" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="1"/>
+  
+  <!-- Cleaning bubbles -->
+  <circle cx="200" cy="100" r="4" fill="#ffffff" opacity="0.7"/>
+  <circle cx="210" cy="110" r="3" fill="#ffffff" opacity="0.6"/>
+  <circle cx="205" cy="90" r="2" fill="#ffffff" opacity="0.8"/>
+  <circle cx="195" cy="120" r="3" fill="#ffffff" opacity="0.5"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="230" rx="35" ry="6" fill="#000000" opacity="0.1"/>
+</svg> 

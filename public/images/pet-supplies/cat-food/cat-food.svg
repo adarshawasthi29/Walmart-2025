@@ -1,0 +1,54 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="canGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f0f8ff"/>
+  
+  <!-- Cat food can 1 -->
+  <rect x="60" y="120" width="50" height="70" rx="25" fill="url(#canGradient)" stroke="#922b21" stroke-width="2"/>
+  
+  <!-- Cat food can 2 -->
+  <rect x="125" y="110" width="50" height="70" rx="25" fill="url(#canGradient)" stroke="#922b21" stroke-width="2"/>
+  
+  <!-- Cat food can 3 -->
+  <rect x="190" y="120" width="50" height="70" rx="25" fill="url(#canGradient)" stroke="#922b21" stroke-width="2"/>
+  
+  <!-- Can tops -->
+  <ellipse cx="85" cy="120" rx="25" ry="8" fill="#f8f9fa" stroke="#d0d0d0" stroke-width="1"/>
+  <ellipse cx="150" cy="110" rx="25" ry="8" fill="#f8f9fa" stroke="#d0d0d0" stroke-width="1"/>
+  <ellipse cx="215" cy="120" rx="25" ry="8" fill="#f8f9fa" stroke="#d0d0d0" stroke-width="1"/>
+  
+  <!-- Friskies branding on middle can -->
+  <text x="150" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">FRISKIES</text>
+  <text x="150" y="155" text-anchor="middle" fill="#f8f9fa" font-family="Arial, sans-serif" font-size="8">CAT FOOD</text>
+  
+  <!-- Cat silhouette on middle can -->
+  <path d="M140 165 Q145 160 155 160 Q160 165 155 170 Q150 175 145 170 Q140 170 140 165" fill="white" opacity="0.8"/>
+  
+  <!-- Package box -->
+  <rect x="80" y="200" width="140" height="60" rx="10" fill="#ffffff" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="90" y="210" width="120" height="40" rx="5" fill="#f8f9fa" stroke="#c0c0c0" stroke-width="1"/>
+  
+  <!-- Package label -->
+  <text x="150" y="225" text-anchor="middle" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">FRISKIES</text>
+  <text x="150" y="240" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">VARIETY PACK • 32 CANS</text>
+  
+  <!-- Cat paw prints -->
+  <circle cx="100" cy="90" r="3" fill="#e74c3c" opacity="0.3"/>
+  <circle cx="98" cy="85" r="1.5" fill="#e74c3c" opacity="0.3"/>
+  <circle cx="102" cy="85" r="1.5" fill="#e74c3c" opacity="0.3"/>
+  <circle cx="100" cy="82" r="1.5" fill="#e74c3c" opacity="0.3"/>
+  
+  <circle cx="200" cy="95" r="3" fill="#e74c3c" opacity="0.3"/>
+  <circle cx="198" cy="90" r="1.5" fill="#e74c3c" opacity="0.3"/>
+  <circle cx="202" cy="90" r="1.5" fill="#e74c3c" opacity="0.3"/>
+  <circle cx="200" cy="87" r="1.5" fill="#e74c3c" opacity="0.3"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="270" rx="70" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 

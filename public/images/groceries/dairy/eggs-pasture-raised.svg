@@ -1,0 +1,61 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Carton shadow -->
+  <ellipse cx="150" cy="270" rx="80" ry="15" fill="#00000020"/>
+  
+  <!-- Egg carton -->
+  <rect x="70" y="80" width="160" height="180" rx="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Vital Farms brand section -->
+  <rect x="75" y="85" width="150" height="50" rx="5" fill="#ff6b35"/>
+  
+  <!-- Brand text -->
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">Vital Farms</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">PASTURE RAISED</text>
+  
+  <!-- Egg type section -->
+  <rect x="75" y="140" width="150" height="40" fill="#fff8dc"/>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ff6b35" text-anchor="middle">PASTURE RAISED</text>
+  <text x="150" y="170" font-family="Arial, sans-serif" font-size="12" fill="#ff6b35" text-anchor="middle">Large Grade A</text>
+  
+  <!-- Egg illustrations with orange yolks -->
+  <ellipse cx="120" cy="200" rx="12" ry="16" fill="#faf0e6"/>
+  <ellipse cx="150" cy="200" rx="12" ry="16" fill="#faf0e6"/>
+  <ellipse cx="180" cy="200" rx="12" ry="16" fill="#faf0e6"/>
+  
+  <!-- Orange yolk hints -->
+  <circle cx="120" cy="200" r="4" fill="#ff8c00"/>
+  <circle cx="150" cy="200" r="4" fill="#ff8c00"/>
+  <circle cx="180" cy="200" r="4" fill="#ff8c00"/>
+  
+  <!-- Egg highlights -->
+  <ellipse cx="117" cy="195" rx="3" ry="4" fill="#ffffff"/>
+  <ellipse cx="147" cy="195" rx="3" ry="4" fill="#ffffff"/>
+  <ellipse cx="177" cy="195" rx="3" ry="4" fill="#ffffff"/>
+  
+  <!-- Pasture-raised certification -->
+  <circle cx="115" cy="230" r="12" fill="#228b22"/>
+  <text x="115" y="225" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle">PASTURE</text>
+  <text x="115" y="237" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle">RAISED</text>
+  
+  <!-- Happy hen in pasture -->
+  <circle cx="185" cy="230" r="8" fill="#daa520"/>
+  <circle cx="180" cy="227" r="1" fill="#000"/>
+  <circle cx="190" cy="227" r="1" fill="#000"/>
+  <path d="M 180 233 Q 185 236 190 233" stroke="#000" stroke-width="1" fill="none"/>
+  <!-- Grass under hen -->
+  <path d="M 175 240 L 177 235" stroke="#228b22" stroke-width="1"/>
+  <path d="M 185 240 L 187 235" stroke="#228b22" stroke-width="1"/>
+  <path d="M 195 240 L 193 235" stroke="#228b22" stroke-width="1"/>
+  
+  <!-- Count and details -->
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">12 Count</text>
+  
+  <!-- Carton lid line -->
+  <line x1="75" y1="140" x2="225" y2="140" stroke="#ddd" stroke-width="1"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="120" cy="160" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

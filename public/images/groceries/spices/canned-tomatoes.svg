@@ -1,0 +1,47 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="canGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Can body -->
+  <rect x="110" y="80" width="80" height="120" rx="40" fill="url(#canGradient)" stroke="#d0d0d0" stroke-width="2"/>
+  
+  <!-- Can top -->
+  <ellipse cx="150" cy="80" rx="40" ry="8" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="1"/>
+  
+  <!-- Can bottom -->
+  <ellipse cx="150" cy="200" rx="40" ry="8" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="1"/>
+  
+  <!-- Hunt's branding -->
+  <rect x="120" y="100" width="60" height="30" rx="3" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
+  <text x="150" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">HUNT'S</text>
+  
+  <!-- Product label -->
+  <rect x="120" y="140" width="60" height="35" rx="3" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <text x="150" y="150" text-anchor="middle" fill="#e74c3c" font-family="Arial, sans-serif" font-size="8" font-weight="bold">DICED</text>
+  <text x="150" y="160" text-anchor="middle" fill="#e74c3c" font-family="Arial, sans-serif" font-size="8" font-weight="bold">TOMATOES</text>
+  <text x="150" y="170" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="6">IN JUICE</text>
+  
+  <!-- Size -->
+  <rect x="120" y="180" width="60" height="15" rx="2" fill="#f39c12" stroke="#d68910" stroke-width="1"/>
+  <text x="150" y="190" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">14.5 OZ</text>
+  
+  <!-- Tomato illustration -->
+  <circle cx="120" cy="60" r="8" fill="#e74c3c" opacity="0.7"/>
+  <path d="M118 52 Q120 50 122 52" fill="none" stroke="#4caf50" stroke-width="2"/>
+  <circle cx="180" cy="65" r="6" fill="#e74c3c" opacity="0.7"/>
+  <path d="M178 58 Q180 56 182 58" fill="none" stroke="#4caf50" stroke-width="1"/>
+  
+  <!-- No preservatives badge -->
+  <rect x="190" y="120" width="30" height="15" rx="2" fill="#27ae60" stroke="#1e8449" stroke-width="1"/>
+  <text x="205" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="6" font-weight="bold">NO PRESERVATIVES</text>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="220" rx="35" ry="6" fill="#000000" opacity="0.1"/>
+</svg> 

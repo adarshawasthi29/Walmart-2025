@@ -1,0 +1,49 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Package shadow -->
+  <ellipse cx="150" cy="270" rx="80" ry="15" fill="#00000020"/>
+  
+  <!-- Meat tray -->
+  <rect x="70" y="80" width="160" height="180" rx="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Fresh label -->
+  <rect x="75" y="85" width="150" height="40" rx="5" fill="#dc143c"/>
+  <text x="150" y="100" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">FRESH</text>
+  <text x="150" y="115" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">CHICKEN</text>
+  
+  <!-- Product name section -->
+  <rect x="75" y="130" width="150" height="35" fill="#fff8dc"/>
+  <text x="150" y="145" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc143c" text-anchor="middle">WINGS</text>
+  <text x="150" y="160" font-family="Arial, sans-serif" font-size="12" fill="#dc143c" text-anchor="middle">Party Pack</text>
+  
+  <!-- Chicken wings illustration -->
+  <ellipse cx="120" cy="195" rx="15" ry="25" fill="#f5deb3"/>
+  <ellipse cx="150" cy="190" rx="18" ry="28" fill="#f5deb3"/>
+  <ellipse cx="180" cy="195" rx="15" ry="25" fill="#f5deb3"/>
+  
+  <!-- Wing details -->
+  <ellipse cx="120" cy="185" rx="12" ry="20" fill="#faf0e6"/>
+  <ellipse cx="150" cy="180" rx="15" ry="23" fill="#faf0e6"/>
+  <ellipse cx="180" cy="185" rx="12" ry="20" fill="#faf0e6"/>
+  
+  <!-- Fresh badge -->
+  <circle cx="105" cy="225" r="12" fill="#32cd32"/>
+  <text x="105" y="220" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">FRESH</text>
+  <text x="105" y="232" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">CUT</text>
+  
+  <!-- Per pound badge -->
+  <rect x="165" y="220" width="30" height="15" rx="3" fill="#ff6b35"/>
+  <text x="180" y="230" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">Per LB</text>
+  
+  <!-- Price area -->
+  <rect x="75" y="240" width="150" height="15" fill="#f0f0f0"/>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">Perfect for Grilling</text>
+  
+  <!-- Plastic wrap effect -->
+  <rect x="70" y="80" width="160" height="180" rx="10" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="120" cy="150" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

@@ -1,0 +1,49 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bagGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A0522D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f0f8ff"/>
+  
+  <!-- Dog food bag -->
+  <rect x="80" y="40" width="140" height="200" rx="10" fill="url(#bagGradient)" stroke="#654321" stroke-width="2"/>
+  
+  <!-- Brand label -->
+  <rect x="90" y="60" width="120" height="50" rx="5" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <text x="150" y="80" text-anchor="middle" fill="#8B4513" font-family="Arial, sans-serif" font-size="18" font-weight="bold">PEDIGREE</text>
+  <text x="150" y="95" text-anchor="middle" fill="#8B4513" font-family="Arial, sans-serif" font-size="12">ADULT DOG FOOD</text>
+  
+  <!-- Dog illustration -->
+  <circle cx="150" cy="140" r="25" fill="#D2691E" stroke="#8B4513" stroke-width="2"/>
+  <ellipse cx="145" cy="135" rx="3" ry="2" fill="#000000"/>
+  <ellipse cx="155" cy="135" rx="3" ry="2" fill="#000000"/>
+  <ellipse cx="150" cy="145" rx="2" ry="1" fill="#000000"/>
+  <path d="M148 147 Q150 150 152 147" fill="none" stroke="#000000" stroke-width="1"/>
+  
+  <!-- Dog ears -->
+  <ellipse cx="135" cy="125" rx="8" ry="12" fill="#8B4513"/>
+  <ellipse cx="165" cy="125" rx="8" ry="12" fill="#8B4513"/>
+  
+  <!-- Weight indicator -->
+  <rect x="90" y="175" width="120" height="25" rx="3" fill="#f39c12" stroke="#d68910" stroke-width="1"/>
+  <text x="150" y="190" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">15 LB</text>
+  
+  <!-- Real beef badge -->
+  <rect x="90" y="210" width="120" height="20" rx="3" fill="#27ae60" stroke="#1e8449" stroke-width="1"/>
+  <text x="150" y="223" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">REAL BEEF</text>
+  
+  <!-- Kibble pieces -->
+  <circle cx="110" cy="120" r="3" fill="#8B4513" opacity="0.7"/>
+  <circle cx="125" cy="115" r="3" fill="#A0522D" opacity="0.7"/>
+  <circle cx="175" cy="115" r="3" fill="#8B4513" opacity="0.7"/>
+  <circle cx="190" cy="120" r="3" fill="#A0522D" opacity="0.7"/>
+  <circle cx="105" cy="160" r="3" fill="#A0522D" opacity="0.7"/>
+  <circle cx="195" cy="160" r="3" fill="#8B4513" opacity="0.7"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="250" rx="60" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 

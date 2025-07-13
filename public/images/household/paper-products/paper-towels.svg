@@ -1,0 +1,59 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paperGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f0f8ff"/>
+  
+  <!-- Paper towel roll -->
+  <rect x="120" y="60" width="60" height="180" rx="30" fill="url(#paperGradient)" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Paper towel sheets -->
+  <rect x="115" y="65" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="80" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="95" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="110" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="125" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="140" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="155" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="170" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="185" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="200" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="215" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <rect x="115" y="230" width="70" height="12" rx="2" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  
+  <!-- Brand label -->
+  <rect x="60" y="100" width="80" height="40" rx="5" fill="#4a90e2" stroke="#357ab8" stroke-width="1"/>
+  <text x="100" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">BOUNTY</text>
+  <text x="100" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">PAPER TOWELS</text>
+  
+  <!-- Super absorbent badge -->
+  <circle cx="200" cy="110" r="25" fill="#27ae60" stroke="#1e8449" stroke-width="2"/>
+  <text x="200" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">SUPER</text>
+  <text x="200" y="118" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">ABSORBENT</text>
+  
+  <!-- Package info -->
+  <rect x="60" y="150" width="80" height="25" rx="3" fill="#f39c12" stroke="#d68910" stroke-width="1"/>
+  <text x="100" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">12 ROLLS</text>
+  
+  <!-- Texture pattern -->
+  <path d="M125 70 L175 70" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 85 L175 85" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 100 L175 100" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 115 L175 115" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 130 L175 130" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 145 L175 145" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 160 L175 160" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 175 L175 175" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 190 L175 190" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 205 L175 205" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 220 L175 220" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  <path d="M125 235 L175 235" stroke="#e0e0e0" stroke-width="0.5" opacity="0.6"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="250" rx="60" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 

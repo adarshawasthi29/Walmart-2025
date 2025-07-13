@@ -1,0 +1,54 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="garlicGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f8f8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e8e8e8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Garlic bulb 1 -->
+  <circle cx="120" cy="140" r="25" fill="url(#garlicGradient)" stroke="#d0d0d0" stroke-width="2"/>
+  
+  <!-- Garlic bulb 2 -->
+  <circle cx="180" cy="135" r="22" fill="url(#garlicGradient)" stroke="#d0d0d0" stroke-width="2"/>
+  
+  <!-- Garlic bulb 3 -->
+  <circle cx="150" cy="180" r="20" fill="url(#garlicGradient)" stroke="#d0d0d0" stroke-width="2"/>
+  
+  <!-- Garlic clove separations -->
+  <path d="M105 130 Q120 125 135 130" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  <path d="M110 145 Q120 140 130 145" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  <path d="M120 120 Q120 140 120 160" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  
+  <path d="M165 125 Q180 120 195 125" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  <path d="M170 140 Q180 135 190 140" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  <path d="M180 115 Q180 135 180 155" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  
+  <path d="M135 170 Q150 165 165 170" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  <path d="M140 185 Q150 180 160 185" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  <path d="M150 160 Q150 180 150 200" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  
+  <!-- Garlic stems -->
+  <path d="M120 115 Q122 105 125 95" fill="none" stroke="#8B7355" stroke-width="3"/>
+  <path d="M180 113 Q182 103 185 93" fill="none" stroke="#8B7355" stroke-width="3"/>
+  <path d="M150 160 Q152 150 155 140" fill="none" stroke="#8B7355" stroke-width="3"/>
+  
+  <!-- Individual clove details -->
+  <ellipse cx="115" cy="135" rx="4" ry="8" fill="#f0f0f0" opacity="0.7"/>
+  <ellipse cx="125" cy="135" rx="4" ry="8" fill="#f0f0f0" opacity="0.7"/>
+  <ellipse cx="175" cy="130" rx="4" ry="7" fill="#f0f0f0" opacity="0.7"/>
+  <ellipse cx="185" cy="130" rx="4" ry="7" fill="#f0f0f0" opacity="0.7"/>
+  <ellipse cx="145" cy="175" rx="3" ry="6" fill="#f0f0f0" opacity="0.7"/>
+  <ellipse cx="155" cy="175" rx="3" ry="6" fill="#f0f0f0" opacity="0.7"/>
+  
+  <!-- Labeling -->
+  <rect x="100" y="220" width="100" height="30" rx="5" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <text x="150" y="235" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FRESH GARLIC</text>
+  <text x="150" y="245" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="8">AROMATIC BULBS</text>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="210" rx="60" ry="6" fill="#000000" opacity="0.1"/>
+</svg> 

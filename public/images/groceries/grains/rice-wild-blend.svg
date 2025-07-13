@@ -1,0 +1,58 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Bag shadow -->
+  <ellipse cx="150" cy="270" rx="70" ry="15" fill="#00000020"/>
+  
+  <!-- Rice bag -->
+  <rect x="80" y="70" width="140" height="190" rx="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Uncle Ben's brand section -->
+  <rect x="85" y="75" width="130" height="50" rx="5" fill="#ff6b35"/>
+  
+  <!-- Brand text -->
+  <text x="150" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">Uncle Ben's</text>
+  <text x="150" y="110" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">ORIGINAL</text>
+  
+  <!-- Product name section -->
+  <rect x="85" y="130" width="130" height="40" fill="#8b4513"/>
+  <text x="150" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">WILD RICE</text>
+  <text x="150" y="160" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">BLEND</text>
+  
+  <!-- Rice illustration -->
+  <ellipse cx="150" cy="195" rx="45" ry="25" fill="#daa520"/>
+  <ellipse cx="150" cy="190" rx="40" ry="20" fill="#f4a460"/>
+  
+  <!-- Mixed rice grains -->
+  <!-- White rice grains -->
+  <ellipse cx="130" cy="185" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="140" cy="190" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="160" cy="190" rx="2" ry="4" fill="#fffacd"/>
+  <ellipse cx="170" cy="185" rx="2" ry="4" fill="#fffacd"/>
+  
+  <!-- Dark wild rice grains -->
+  <ellipse cx="135" cy="195" rx="2" ry="4" fill="#654321"/>
+  <ellipse cx="150" cy="185" rx="2" ry="4" fill="#654321"/>
+  <ellipse cx="165" cy="195" rx="2" ry="4" fill="#654321"/>
+  <ellipse cx="155" cy="195" rx="2" ry="4" fill="#654321"/>
+  
+  <!-- Nutty flavor badge -->
+  <circle cx="120" cy="220" r="12" fill="#8b4513"/>
+  <text x="120" y="215" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">NUTTY</text>
+  <text x="120" y="227" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">FLAVOR</text>
+  
+  <!-- Gourmet badge -->
+  <rect x="165" y="215" width="30" height="15" rx="3" fill="#daa520"/>
+  <text x="180" y="225" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">GOURMET</text>
+  
+  <!-- Size and details -->
+  <text x="150" y="245" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">2 lb Bag</text>
+  
+  <!-- Bag seal -->
+  <rect x="140" y="65" width="20" height="12" rx="2" fill="#ff6b35"/>
+  <rect x="142" y="67" width="16" height="8" rx="1" fill="#ff8c00"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="120" cy="150" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

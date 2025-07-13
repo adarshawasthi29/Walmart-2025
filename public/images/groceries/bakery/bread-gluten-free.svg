@@ -1,0 +1,51 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Bag shadow -->
+  <ellipse cx="150" cy="270" rx="80" ry="15" fill="#00000020"/>
+  
+  <!-- Bread bag -->
+  <rect x="70" y="80" width="160" height="180" rx="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Udi's brand section -->
+  <rect x="75" y="85" width="150" height="50" rx="5" fill="#2e8b57"/>
+  
+  <!-- Brand text -->
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Udi's</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">GLUTEN FREE</text>
+  
+  <!-- Bread type section -->
+  <rect x="75" y="140" width="150" height="40" fill="#f5f5dc"/>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e8b57" text-anchor="middle">WHITE</text>
+  <text x="150" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2e8b57" text-anchor="middle">SANDWICH BREAD</text>
+  
+  <!-- Bread loaf illustration -->
+  <ellipse cx="150" cy="210" rx="50" ry="30" fill="#faf0e6"/>
+  <ellipse cx="150" cy="205" rx="45" ry="25" fill="#fffacd"/>
+  
+  <!-- Gluten-free certification -->
+  <circle cx="120" cy="200" r="12" fill="#2e8b57"/>
+  <text x="120" y="195" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">GLUTEN</text>
+  <text x="120" y="205" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">FREE</text>
+  
+  <!-- Celiac safe badge -->
+  <rect x="165" y="195" width="25" height="15" rx="3" fill="#32cd32"/>
+  <text x="177" y="205" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">SAFE</text>
+  
+  <!-- Bread texture lines -->
+  <path d="M 120 195 Q 150 190 180 195" stroke="#ddd" stroke-width="1" fill="none"/>
+  <path d="M 125 205 Q 150 200 175 205" stroke="#ddd" stroke-width="1" fill="none"/>
+  <path d="M 130 215 Q 150 210 170 215" stroke="#ddd" stroke-width="1" fill="none"/>
+  
+  <!-- Size and details -->
+  <text x="150" y="235" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">18 oz Loaf</text>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Soft & Fresh</text>
+  
+  <!-- Bag clip -->
+  <rect x="140" y="75" width="20" height="12" rx="2" fill="#2e8b57"/>
+  <rect x="142" y="77" width="16" height="8" rx="1" fill="#32cd32"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="120" cy="160" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

@@ -1,0 +1,67 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="phoneGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="screenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f0f8ff"/>
+  
+  <!-- iPhone body -->
+  <rect x="110" y="40" width="80" height="160" rx="15" fill="url(#phoneGradient)" stroke="#d0d0d0" stroke-width="2"/>
+  
+  <!-- Screen -->
+  <rect x="115" y="50" width="70" height="140" rx="12" fill="url(#screenGradient)" stroke="#333" stroke-width="1"/>
+  
+  <!-- Screen reflection -->
+  <rect x="118" y="53" width="15" height="134" rx="7" fill="#ffffff" opacity="0.1"/>
+  
+  <!-- Dynamic Island -->
+  <rect x="135" y="58" width="30" height="8" rx="4" fill="#1a1a1a"/>
+  
+  <!-- Home indicator -->
+  <rect x="140" y="175" width="20" height="3" rx="1.5" fill="#ffffff" opacity="0.6"/>
+  
+  <!-- Apple logo -->
+  <circle cx="150" cy="220" r="8" fill="#1a1a1a" opacity="0.7"/>
+  <text x="150" y="225" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold"></text>
+  
+  <!-- iPhone branding -->
+  <text x="150" y="240" text-anchor="middle" fill="#1a1a1a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">iPhone</text>
+  
+  <!-- App icons on screen -->
+  <rect x="125" y="80" width="12" height="12" rx="2" fill="#3498db" opacity="0.8"/>
+  <rect x="142" y="80" width="12" height="12" rx="2" fill="#e74c3c" opacity="0.8"/>
+  <rect x="159" y="80" width="12" height="12" rx="2" fill="#f39c12" opacity="0.8"/>
+  <rect x="176" y="80" width="12" height="12" rx="2" fill="#27ae60" opacity="0.8"/>
+  
+  <rect x="125" y="97" width="12" height="12" rx="2" fill="#9b59b6" opacity="0.8"/>
+  <rect x="142" y="97" width="12" height="12" rx="2" fill="#e67e22" opacity="0.8"/>
+  <rect x="159" y="97" width="12" height="12" rx="2" fill="#1abc9c" opacity="0.8"/>
+  <rect x="176" y="97" width="12" height="12" rx="2" fill="#34495e" opacity="0.8"/>
+  
+  <rect x="125" y="114" width="12" height="12" rx="2" fill="#f1c40f" opacity="0.8"/>
+  <rect x="142" y="114" width="12" height="12" rx="2" fill="#e91e63" opacity="0.8"/>
+  <rect x="159" y="114" width="12" height="12" rx="2" fill="#2196f3" opacity="0.8"/>
+  <rect x="176" y="114" width="12" height="12" rx="2" fill="#8bc34a" opacity="0.8"/>
+  
+  <!-- Side buttons -->
+  <rect x="108" y="80" width="2" height="15" rx="1" fill="#b0b0b0"/>
+  <rect x="108" y="100" width="2" height="8" rx="1" fill="#b0b0b0"/>
+  <rect x="108" y="112" width="2" height="8" rx="1" fill="#b0b0b0"/>
+  
+  <!-- Camera bump -->
+  <rect x="165" y="45" width="20" height="20" rx="5" fill="#d0d0d0" stroke="#a0a0a0" stroke-width="1"/>
+  <circle cx="170" cy="50" r="3" fill="#1a1a1a"/>
+  <circle cx="180" cy="50" r="3" fill="#1a1a1a"/>
+  <circle cx="175" cy="60" r="3" fill="#1a1a1a"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="210" rx="35" ry="5" fill="#000000" opacity="0.1"/>
+</svg> 

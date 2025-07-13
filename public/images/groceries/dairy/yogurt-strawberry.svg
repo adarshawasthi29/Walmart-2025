@@ -1,0 +1,47 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="yogurtGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffeef0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f0f8ff"/>
+  
+  <!-- Yogurt container -->
+  <rect x="90" y="80" width="120" height="160" rx="10" fill="url(#yogurtGradient)" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Container lid -->
+  <ellipse cx="150" cy="80" rx="60" ry="8" fill="#e91e63" stroke="#c2185b" stroke-width="2"/>
+  
+  <!-- Oikos branding -->
+  <rect x="100" y="100" width="100" height="40" rx="5" fill="#e91e63" stroke="#c2185b" stroke-width="1"/>
+  <text x="150" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">OIKOS</text>
+  <text x="150" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">GREEK YOGURT</text>
+  
+  <!-- Strawberry flavor label -->
+  <rect x="100" y="150" width="100" height="25" rx="3" fill="#ff1744" stroke="#d50000" stroke-width="1"/>
+  <text x="150" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">STRAWBERRY</text>
+  
+  <!-- Size indicator -->
+  <rect x="100" y="180" width="100" height="30" rx="3" fill="#f8f9fa" stroke="#d0d0d0" stroke-width="1"/>
+  <text x="150" y="195" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">32 OZ</text>
+  <text x="150" y="205" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="8">REAL FRUIT</text>
+  
+  <!-- Protein badge -->
+  <rect x="100" y="220" width="100" height="15" rx="2" fill="#27ae60" stroke="#1e8449" stroke-width="1"/>
+  <text x="150" y="230" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">15G PROTEIN</text>
+  
+  <!-- Container reflection -->
+  <rect x="95" y="85" width="15" height="150" rx="7" fill="#ffffff" opacity="0.3"/>
+  
+  <!-- Strawberry decorations -->
+  <ellipse cx="120" cy="108" rx="4" ry="6" fill="#ff1744"/>
+  <path d="M118 104 Q120 102 122 104" fill="none" stroke="#4caf50" stroke-width="1"/>
+  <ellipse cx="180" cy="108" rx="4" ry="6" fill="#ff1744"/>
+  <path d="M178 104 Q180 102 182 104" fill="none" stroke="#4caf50" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="250" rx="55" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 

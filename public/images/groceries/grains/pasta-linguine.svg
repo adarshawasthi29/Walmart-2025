@@ -1,0 +1,48 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Box shadow -->
+  <ellipse cx="150" cy="270" rx="70" ry="15" fill="#00000020"/>
+  
+  <!-- Pasta box -->
+  <rect x="80" y="70" width="140" height="190" rx="8" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Barilla brand section -->
+  <rect x="85" y="75" width="130" height="50" rx="5" fill="#dc143c"/>
+  
+  <!-- Brand text -->
+  <text x="150" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Barilla</text>
+  <text x="150" y="110" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">ITALY'S #1</text>
+  
+  <!-- Product name section -->
+  <rect x="85" y="130" width="130" height="35" fill="#fff8dc"/>
+  <text x="150" y="145" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc143c" text-anchor="middle">LINGUINE</text>
+  <text x="150" y="160" font-family="Arial, sans-serif" font-size="12" fill="#dc143c" text-anchor="middle">Pasta</text>
+  
+  <!-- Pasta illustration -->
+  <rect x="120" y="175" width="60" height="60" rx="5" fill="#f5deb3"/>
+  <rect x="125" y="180" width="50" height="50" rx="3" fill="#fff8dc"/>
+  
+  <!-- Linguine strands -->
+  <rect x="135" y="185" width="30" height="2" fill="#f4a460"/>
+  <rect x="135" y="190" width="30" height="2" fill="#f4a460"/>
+  <rect x="135" y="195" width="30" height="2" fill="#f4a460"/>
+  <rect x="135" y="200" width="30" height="2" fill="#f4a460"/>
+  <rect x="135" y="205" width="30" height="2" fill="#f4a460"/>
+  <rect x="135" y="210" width="30" height="2" fill="#f4a460"/>
+  <rect x="135" y="215" width="30" height="2" fill="#f4a460"/>
+  <rect x="135" y="220" width="30" height="2" fill="#f4a460"/>
+  
+  <!-- Italian flag -->
+  <rect x="110" y="215" width="6" height="15" fill="#228b22"/>
+  <rect x="116" y="215" width="6" height="15" fill="#ffffff"/>
+  <rect x="122" y="215" width="6" height="15" fill="#dc143c"/>
+  
+  <!-- Size and details -->
+  <text x="150" y="245" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">1 lb (454g)</text>
+  <text x="150" y="255" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Perfect for Seafood</text>
+  
+  <!-- Shine effect -->
+  <ellipse cx="120" cy="150" rx="10" ry="30" fill="#ffffff30"/>
+</svg> 

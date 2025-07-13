@@ -1,0 +1,53 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="onionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#daa520;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Onion 1 -->
+  <ellipse cx="110" cy="130" rx="30" ry="35" fill="url(#onionGradient)" stroke="#b8860b" stroke-width="1"/>
+  
+  <!-- Onion 2 -->
+  <ellipse cx="170" cy="120" rx="25" ry="30" fill="url(#onionGradient)" stroke="#b8860b" stroke-width="1"/>
+  
+  <!-- Onion 3 -->
+  <ellipse cx="140" cy="170" rx="28" ry="32" fill="url(#onionGradient)" stroke="#b8860b" stroke-width="1"/>
+  
+  <!-- Onion 4 -->
+  <ellipse cx="200" cy="155" rx="22" ry="28" fill="url(#onionGradient)" stroke="#b8860b" stroke-width="1"/>
+  
+  <!-- Onion 5 -->
+  <ellipse cx="90" cy="180" rx="20" ry="25" fill="url(#onionGradient)" stroke="#b8860b" stroke-width="1"/>
+  
+  <!-- Onion layers/texture -->
+  <ellipse cx="110" cy="130" rx="25" ry="30" fill="none" stroke="#daa520" stroke-width="1" opacity="0.5"/>
+  <ellipse cx="170" cy="120" rx="20" ry="25" fill="none" stroke="#daa520" stroke-width="1" opacity="0.5"/>
+  <ellipse cx="140" cy="170" rx="23" ry="27" fill="none" stroke="#daa520" stroke-width="1" opacity="0.5"/>
+  <ellipse cx="200" cy="155" rx="17" ry="23" fill="none" stroke="#daa520" stroke-width="1" opacity="0.5"/>
+  <ellipse cx="90" cy="180" rx="15" ry="20" fill="none" stroke="#daa520" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Onion tops/stems -->
+  <path d="M110 95 Q112 85 115 80" fill="none" stroke="#8B4513" stroke-width="2"/>
+  <path d="M170 90 Q172 80 175 75" fill="none" stroke="#8B4513" stroke-width="2"/>
+  <path d="M140 138 Q142 128 145 123" fill="none" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Mesh bag -->
+  <rect x="60" y="220" width="180" height="50" rx="10" fill="#ff6b6b" stroke="#e55656" stroke-width="2"/>
+  <text x="150" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">YELLOW ONIONS</text>
+  <text x="150" y="255" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">3 LB BAG</text>
+  
+  <!-- Mesh pattern -->
+  <path d="M70 225 L230 225" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M70 235 L230 235" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M70 245 L230 245" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M70 255 L230 255" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  <path d="M70 265 L230 265" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="280" rx="80" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 

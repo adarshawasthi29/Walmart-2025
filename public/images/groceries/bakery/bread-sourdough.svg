@@ -1,0 +1,58 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sourdoughGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#DEB887;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B7355;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Sourdough loaf -->
+  <ellipse cx="150" cy="160" rx="90" ry="45" fill="url(#sourdoughGradient)" stroke="#654321" stroke-width="2"/>
+  
+  <!-- Bread texture with rustic crust -->
+  <ellipse cx="150" cy="155" rx="85" ry="40" fill="#D2B48C" opacity="0.7"/>
+  <ellipse cx="150" cy="150" rx="80" ry="35" fill="#F4A460" opacity="0.5"/>
+  
+  <!-- Sourdough scoring marks -->
+  <path d="M90 145 Q150 135 210 145" fill="none" stroke="#8B4513" stroke-width="3"/>
+  <path d="M100 165 Q150 155 200 165" fill="none" stroke="#8B4513" stroke-width="2"/>
+  <path d="M95 175 Q150 170 205 175" fill="none" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Artisan texture bumps -->
+  <circle cx="120" cy="140" r="3" fill="#DEB887" opacity="0.8"/>
+  <circle cx="140" cy="138" r="2" fill="#DEB887" opacity="0.8"/>
+  <circle cx="170" cy="142" r="3" fill="#DEB887" opacity="0.8"/>
+  <circle cx="180" cy="155" r="2" fill="#DEB887" opacity="0.8"/>
+  
+  <!-- Bread slices -->
+  <rect x="70" y="130" width="8" height="60" rx="4" fill="#F5DEB3" stroke="#8B4513" stroke-width="1"/>
+  <rect x="80" y="125" width="8" height="70" rx="4" fill="#F5DEB3" stroke="#8B4513" stroke-width="1"/>
+  <rect x="90" y="120" width="8" height="80" rx="4" fill="#F5DEB3" stroke="#8B4513" stroke-width="1"/>
+  
+  <!-- Holes in slices (sourdough characteristic) -->
+  <circle cx="74" cy="145" r="1" fill="#8B4513"/>
+  <circle cx="76" cy="155" r="1.5" fill="#8B4513"/>
+  <circle cx="84" cy="140" r="1" fill="#8B4513"/>
+  <circle cx="86" cy="150" r="1.5" fill="#8B4513"/>
+  <circle cx="94" cy="135" r="1" fill="#8B4513"/>
+  <circle cx="96" cy="145" r="1.5" fill="#8B4513"/>
+  
+  <!-- Bread packaging -->
+  <rect x="60" y="210" width="180" height="60" rx="10" fill="#ffffff" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="70" y="220" width="160" height="40" rx="5" fill="#f8f9fa" stroke="#c0c0c0" stroke-width="1"/>
+  
+  <!-- Boudin branding -->
+  <text x="150" y="235" text-anchor="middle" fill="#8B4513" font-family="Arial, sans-serif" font-size="14" font-weight="bold">BOUDIN</text>
+  <text x="150" y="250" text-anchor="middle" fill="#654321" font-family="Arial, sans-serif" font-size="10">SOURDOUGH BREAD</text>
+  
+  <!-- Artisan badge -->
+  <circle cx="200" cy="90" r="20" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
+  <text x="200" y="87" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">ARTISAN</text>
+  <text x="200" y="97" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">QUALITY</text>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="280" rx="80" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 

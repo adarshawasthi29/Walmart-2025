@@ -1,0 +1,55 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="packageGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="#f0f8ff"/>
+  
+  <!-- Toilet paper rolls -->
+  <circle cx="100" cy="120" r="20" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  <circle cx="140" cy="120" r="20" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  <circle cx="180" cy="120" r="20" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  <circle cx="220" cy="120" r="20" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <circle cx="120" cy="160" r="20" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  <circle cx="160" cy="160" r="20" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  <circle cx="200" cy="160" r="20" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Roll centers -->
+  <circle cx="100" cy="120" r="6" fill="#f5f5f5" stroke="#d0d0d0" stroke-width="1"/>
+  <circle cx="140" cy="120" r="6" fill="#f5f5f5" stroke="#d0d0d0" stroke-width="1"/>
+  <circle cx="180" cy="120" r="6" fill="#f5f5f5" stroke="#d0d0d0" stroke-width="1"/>
+  <circle cx="220" cy="120" r="6" fill="#f5f5f5" stroke="#d0d0d0" stroke-width="1"/>
+  <circle cx="120" cy="160" r="6" fill="#f5f5f5" stroke="#d0d0d0" stroke-width="1"/>
+  <circle cx="160" cy="160" r="6" fill="#f5f5f5" stroke="#d0d0d0" stroke-width="1"/>
+  <circle cx="200" cy="160" r="6" fill="#f5f5f5" stroke="#d0d0d0" stroke-width="1"/>
+  
+  <!-- Package wrapper -->
+  <rect x="70" y="200" width="160" height="70" rx="10" fill="url(#packageGradient)" stroke="#2196f3" stroke-width="2"/>
+  
+  <!-- Charmin branding -->
+  <text x="150" y="220" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold">CHARMIN</text>
+  <text x="150" y="235" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12">ULTRA SOFT</text>
+  
+  <!-- Count -->
+  <rect x="80" y="245" width="140" height="20" rx="3" fill="#ffffff" stroke="#d0d0d0" stroke-width="1"/>
+  <text x="150" y="257" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">24 MEGA ROLLS</text>
+  
+  <!-- Ultra soft badge -->
+  <circle cx="200" cy="90" r="20" fill="#4caf50" stroke="#388e3c" stroke-width="2"/>
+  <text x="200" y="87" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">ULTRA</text>
+  <text x="200" y="97" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="bold">SOFT</text>
+  
+  <!-- Texture lines on rolls -->
+  <path d="M92 112 Q100 115 108 112" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
+  <path d="M132 112 Q140 115 148 112" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
+  <path d="M172 112 Q180 115 188 112" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
+  <path d="M212 112 Q220 115 228 112" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="150" cy="280" rx="70" ry="8" fill="#000000" opacity="0.1"/>
+</svg> 
